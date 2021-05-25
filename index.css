@@ -1,0 +1,27 @@
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#one {
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    color: aqua;
+}
+
+body {
+    text-align: center;
+}
+
+#two {
+    background-image: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet);
+    color: aqua;
+}
+#three {
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    color: aqua;
+}
+#c{
+    background-color: #424242;
+}
